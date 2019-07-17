@@ -1,0 +1,3 @@
+[submodule "jupyter_notebook/tensorflow/deep-learning-with-python-notebooks"]
+	path = jupyter_notebook/tensorflow/deep-learning-with-python-notebooks
+	url = git@github.com:fchollet/deep-learning-with-python-notebooks.git
