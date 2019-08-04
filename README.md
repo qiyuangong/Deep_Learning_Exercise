@@ -1,16 +1,21 @@
 # Deep Learning Exercise
 
-Notebook and Code base for Deep Learning Exercise and materials.
+Examples, Notebook and Code base for Deep Learning Exercise and materials.
 
 
-## Online Exercise & Example
+## Deep Learning Exercise & Examples
 
-### Analytics-Zoo Example
+### Analytics-Zoo Examples
 
 1. [Analytics-Zoo Streaming Object Detection & Text Classifcation Scala Example](https://github.com/intel-analytics/analytics-zoo/tree/master/zoo/src/main/scala/com/intel/analytics/zoo/examples/streaming)
 2. [Analytics-Zoo Streaming Object Detection & Text Classifcation Python Example](https://github.com/intel-analytics/analytics-zoo/tree/master/pyzoo/zoo/examples/streaming)
 3. [Analytics-Zoo Image Classifcation with Redis & Redis Streams](https://github.com/qiyuangong/image_classification_redis)
-4. [Analytics-Zoo OpenVINO ResNet_v1_50 Image Classifcation Example](https://github.com/intel-analytics/analytics-zoo/tree/master/zoo/src/main/scala/com/intel/analytics/zoo/examples/vnni/openvino)
+4. [Analytics-Zoo OpenVINO ResNet_v1_50 Image Classifcation Scala Example](https://github.com/intel-analytics/analytics-zoo/tree/master/zoo/src/main/scala/com/intel/analytics/zoo/examples/vnni/openvino)
+5. Analytics-Zoo OpenVINO ResNet_v1_50 Image Classifcation Python Example
+
+### TensorFlow Examples
+
+
 
 ## Courses & Books:
 
