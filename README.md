@@ -23,9 +23,10 @@ Examples, Notebook and Code base for Deep Learning Exercise and materials.
 
 ### OpenVINO Examples
 
-1. [OpenVINO load TensorFlow resnet_v1_50]()
+1. [OpenVINO load TensorFlow resnet_v1_50](https://github.com/qiyuangong/Deep_Learning_Exercise/blob/master/document/OpenVINO%20Resnet_v1_50.md)
 2. [OpenVINO load TensorFlow inception_v3]()
 3. [OpenVINO load TensorFlow vgg_19]()
+4. [OpenVINO load TensorFlow mobilenet_v1]()
 
 ## Courses & Books
 
@@ -36,3 +37,4 @@ Examples, Notebook and Code base for Deep Learning Exercise and materials.
 
 1. [Analytics-Zoo](https://github.com/intel-analytics/analytics-zoo)
 2. [TensorFlow](https://www.tensorflow.org/)
+3. [OpenVINO](https://software.intel.com/en-us/openvino-toolkit)
