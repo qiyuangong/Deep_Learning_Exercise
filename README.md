@@ -20,11 +20,10 @@ Examples, Notebook and Code base for Deep Learning Exercise and materials.
 3. [TensorFlow Image Classification Preprocessing](https://github.com/tensorflow/models/blob/master/research/slim/preprocessing/preprocessing_factory.py#L47)
 4. [TensorFlow pre-trained Object Detection models](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
-
 ### OpenVINO Examples
 
 1. [OpenVINO load TensorFlow resnet_v1_50](https://github.com/qiyuangong/Deep_Learning_Exercise/blob/master/document/OpenVINO%20Resnet_v1_50.md)
-2. [OpenVINO load TensorFlow inception_v3]()
+2. [OpenVINO load TensorFlow inception_v3](https://github.com/qiyuangong/Deep_Learning_Exercise/blob/master/document/OpenVINO%Inception_v3.md)
 3. [OpenVINO load TensorFlow vgg_19]()
 4. [OpenVINO load TensorFlow mobilenet_v1]()
 

@@ -4,9 +4,9 @@
 
 ## Prerequest
 
-1. OpenVINO 2018_R5 (done, currently installed in /root/dldt)
+1. OpenVINO 2018_R5 (currently installed in /root/dldt)
 2. Preprocessed ImageNet val (currently in /mnt/nvm/val_sized)
-3. Export resnet_v1_50.pb, and download ckpb (located in /root/OpenVINO-ResNet50)
+3. Export resnet_v1_50.pb, and download ckpb
 
 Note that OpenVINO includes normalization if `mean_values` or `scale` are set. So, during preprocessing we only need `central_crop` and `resize`, then save preprocessed image into `bmp` (not `jpeg` because `jpeg` has lossy compression, which leads to lower accuary).
 
