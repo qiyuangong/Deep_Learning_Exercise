@@ -9,18 +9,16 @@
 1. OpenVINO 2018_R5 (currently installed in /home/ubuntu/intel/dldt)
 2. Resize ImageNet val into val_bmp (224 * 224 * 3) (currently in /home/ubuntu/intel)
 3. Export vgg_19.pb, and download ckpb
-4. val_bmp_32 val_bmp_4
+4. val_bmp_32  and `val.txt`
 
-```bash
-# Pre-process imagenet val into inception eval format
-python3 pp_inception.py -i /mnt/nvm/val -o /mnt/nvm/val_bmp_inception
-```
+Note that OpenVINO includes normalization if `mean_values` or `scale` are set. So, during preprocessing we only need `central_crop` and `resize`, then save preprocessed image into `bmp` (not `jpeg` because `jpeg` has lossy compression, which leads to lower accuary).
 
 ### Key parameters
 
 * `val.txt` for calibration and validation. **Suggest to put `val.txt` out of val/image dir, to avoid read val.txt as image by mistake.**
 
 ```bash
+# example of val.txt
 image_path predict_label
 ```
 
@@ -30,7 +28,7 @@ image_path predict_label
 
 * `-nireq`: Number of inference requests (threads) in parallel. It should be no larger than core number.
 
-## Prepare OpenVINO TensorFlow model
+## Prepare OpenVINO model
 
 ### Pre-pare vgg_19.pb and vgg_19.ckpb (optional)
 
