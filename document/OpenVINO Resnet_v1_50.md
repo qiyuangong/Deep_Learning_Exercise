@@ -1,13 +1,11 @@
-# Resnet V1 50
-
-2018_R5-2019_R1.1 OpenVINO resnet_v1_50 Guide
+# OpenVINO resnet_v1_50 Guide
 
 ## Prerequest
 
 ### Env & datasets
 
-1. OpenVINO 2018_R5 (currently installed in /root/dldt)
-2. Preprocessed ImageNet val (currently in /mnt/nvm/val_sized)
+1. 2018_R5-2019_R1.1 (currently installed in /root/dldt)
+2. Preprocessed ImageNet val (224 * 224 * 3) (currently in /home/ubuntu/intel)
 3. Export resnet_v1_50.pb, and download ckpb
 4. val_bmp_32 and `val.txt`
 

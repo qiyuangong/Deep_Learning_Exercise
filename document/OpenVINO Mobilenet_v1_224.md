@@ -1,14 +1,12 @@
-# Mobilenet V1 (224*224*3)
-
-2018_R5 OpenVINO Mobilenet_v1 Tencent Test Guide
+# OpenVINO Mobilenet_v1 Guide
 
 ## Prerequests
 
 ### Env & datasets
 
-1. OpenVINO 2018_R5 (currently installed in /home/ubuntu/intel/dldt)
+1. 2018_R5-2019_R1.1 (currently installed in /home/ubuntu/intel/dldt)
 2. Resize ImageNet val into val_bmp (224 * 224 * 3) (currently in /home/ubuntu/intel)
-3. Export inception_v3.pb, and download ckpb
+3. Download mobilenet_v1_1.0_224_frozen.pb
 4. val_bmp_32 and `val.txt`
 
 ### Key parameters

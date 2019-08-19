@@ -1,12 +1,10 @@
-# Inception V3
-
-2018_R5-2019_R1.1 OpenVINO Inception_v3
+# OpenVINO Inception_v3 Guide
 
 ## Prerequests
 
 ### Env & datasets
 
-1. OpenVINO 2018_R5 (currently installed in /home/ubuntu/intel/dldt)
+1. 2018_R5-2019_R1.1 (currently installed in /home/ubuntu/intel/dldt)
 2. Resize ImageNet val into val_bmp (299 * 299 * 3) (currently in /home/ubuntu/intel)
 3. Export inception_v3.pb, and download ckpb
 4. val_bmp_32 and `val.txt`
