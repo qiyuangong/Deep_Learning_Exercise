@@ -32,6 +32,8 @@ Examples, Notebook and Code base for Deep Learning Exercise and materials.
 
 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow), [Code](https://github.com/qiyuangong/Deep_Learning_Exercise/tree/master/python/tensorflow/introduction-tensorflow) and [Notebook](https://github.com/qiyuangong/Deep_Learning_Exercise/tree/master/jupyter_notebook/tensorflow/introduction-tensorflow)
 2. [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks), [Notebook](https://github.com/qiyuangong/Deep_Learning_Exercise/tree/master/jupyter_notebook/tensorflow/deep-learning-with-python-notebooks)
+3. [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
+4. [Neural Networks and Deep Learning by](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen.
 
 ## Reference
 
