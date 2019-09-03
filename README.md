@@ -11,7 +11,7 @@ Examples, Notebook and Code base for Deep Learning Exercise and materials.
 3. [Analytics-Zoo Image Classification with Redis & Redis Streams](https://github.com/qiyuangong/image_classification_redis)
 4. [Analytics-Zoo OpenVINO ResNet_v1_50 Image Classifcation Scala Example](https://github.com/intel-analytics/analytics-zoo/tree/master/zoo/src/main/scala/com/intel/analytics/zoo/examples/vnni/openvino)
 5. [Analytics-Zoo OpenVINO ResNet_v1_50 Image Classifcation Python Example](https://github.com/intel-analytics/analytics-zoo/tree/master/pyzoo/zoo/examples/vnni/openvino)
-6. Analytics-Zoo OpenVINO faste_rcnn Object detection Python Example (WIP)
+6. Analytics-Zoo OpenVINO SSD Object detection Python Example (WIP)
 7. Analytics-Zoo OpenVINO Inception_v1 Image Classifcation Python Example (WIP)
 
 ### TensorFlow Examples
@@ -21,6 +21,7 @@ Examples, Notebook and Code base for Deep Learning Exercise and materials.
 3. [TensorFlow Image Classification Preprocessing](https://github.com/tensorflow/models/blob/master/research/slim/preprocessing/preprocessing_factory.py#L47)
 4. [TensorFlow pre-trained Object Detection models](https://github.com/tensorflow/models/tree/master/research/object_detection)
 5. [Google Football](https://github.com/google-research/football)
+6. [TensorFlow IMDB](https://github.com/qiyuangong/Deep_Learning_Exercise/blob/master/jupyter_notebook/tensorflow/tutorials/imdb.ipynb)
 
 ### OpenVINO Examples
 
