@@ -2,6 +2,13 @@
 
 Examples, Notebook and Code base for Deep Learning Exercise and materials.
 
+## Basic Knowledge
+
+### Python & Numpy Exercise
+
+1. [numpy 100 exercises](https://github.com/rougier/numpy-100)
+2. [numpy exercises](https://github.com/Kyubyong/numpy_exercises)
+
 ## Deep Learning Exercise & Examples
 
 ### Analytics-Zoo Examples
