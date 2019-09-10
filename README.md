@@ -45,6 +45,9 @@ Examples, Notebook and Code base for Deep Learning Exercise and materials.
 3. [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
 4. [Neural Networks and Deep Learning by](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen.
 5. [Python for Data Analysis by We McKinney](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
+6. [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
+7. [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+8. [Stanford CS234: Reinforcement Learning | Winter 2019](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 ## Reference
 
