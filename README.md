@@ -48,6 +48,7 @@ Examples, Notebook and Code base for Deep Learning Exercise and materials.
 6. [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 7. [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 8. [Stanford CS234: Reinforcement Learning | Winter 2019](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+9. [Stanford University CS231n, Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 ## Reference
 
@@ -57,3 +58,4 @@ Examples, Notebook and Code base for Deep Learning Exercise and materials.
 4. [Coursea](https://www.coursera.org)
 5. [Google Football](https://github.com/google-research/football)
 6. [Apache MXNet](https://mxnet.apache.org/)
+7. [Apache Spark](https://spark.apache.org/)
