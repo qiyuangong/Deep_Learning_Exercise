@@ -18,7 +18,7 @@ Examples, Notebook and Code base for Deep Learning Exercise and materials.
 3. [Analytics-Zoo Image Classification with Redis & Redis Streams](https://github.com/qiyuangong/image_classification_redis)
 4. [Analytics-Zoo OpenVINO ResNet_v1_50 Image Classifcation Scala Example](https://github.com/intel-analytics/analytics-zoo/tree/master/zoo/src/main/scala/com/intel/analytics/zoo/examples/vnni/openvino)
 5. [Analytics-Zoo OpenVINO ResNet_v1_50 Image Classifcation Python Example](https://github.com/intel-analytics/analytics-zoo/tree/master/pyzoo/zoo/examples/vnni/openvino)
-6. Analytics-Zoo OpenVINO SSD Object detection Python Example (WIP)
+6. Analytics-Zoo OpenVINO mobilenet_v1 Object detection Python Example (WIP)
 7. Analytics-Zoo OpenVINO Inception_v3 Image Classifcation Python Example (WIP)
 
 ### TensorFlow & Keras Examples
@@ -48,7 +48,9 @@ Examples, Notebook and Code base for Deep Learning Exercise and materials.
 6. [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 7. [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 8. [Stanford CS234: Reinforcement Learning | Winter 2019](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-9. [Stanford University CS231n, Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+9. [Stanford CS231n: Convolutional Neural Networks for Visual Recognition, Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+10. [Stanford CS230: Deep Learning | Autumn 2018](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+11. [Stanford CS229: Machine Learning](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLEBC422EC5973B4D8)
 
 ## Reference
 
