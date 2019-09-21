@@ -4,6 +4,9 @@ Examples, Notebook and Code base for Deep Learning Exercise and materials.
 
 ## Basic Knowledge
 
+1. Line algebra, Python and Numpy
+2. Neural Network
+
 ### Python & Numpy Exercise
 
 1. [numpy 100 exercises](https://github.com/rougier/numpy-100)
