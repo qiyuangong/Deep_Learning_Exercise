@@ -1,6 +1,6 @@
 # Deep Learning Exercise
 
-Examples, Notebook and Code base for Deep Learning Exercise and materials.
+Examples, Notebook and materials for Deep Learning Exercise and materials.
 
 ## Basic Knowledge
 
@@ -73,3 +73,4 @@ Examples, Notebook and Code base for Deep Learning Exercise and materials.
 6. [Apache MXNet](https://mxnet.apache.org/)
 7. [Apache Spark](https://spark.apache.org/)
 8. [deeplearning.ai](https://www.deeplearning.ai/)
+9. [Keras](https://keras.io/)
