@@ -63,6 +63,13 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
     - [Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 14. [Google Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx)
 
+### 中文资料
+
+1. 百面机器学习
+2. 统计学习方法
+3. Python深度学习 Deep Learning with Python Python
+4. 深度卷积网络:原理与实践 Deep convolutional neural network principle and practice
+
 ## Reference
 
 1. [Analytics-Zoo](https://github.com/intel-analytics/analytics-zoo)
