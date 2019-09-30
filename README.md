@@ -65,10 +65,12 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
 
 ### 中文资料
 
-1. 百面机器学习
-2. 统计学习方法
+1. 百面机器学习 by 诸葛越 and 葫芦娃
+2. 统计学习方法 by 李航
 3. Python深度学习 Deep Learning with Python Python
 4. 深度卷积网络:原理与实践 Deep convolutional neural network principle and practice
+5. 动手学深度学习 by Aston Zhang and Mu Li
+6. 深度学习 by Ian，Goodfellow etc
 
 ## Reference
 
