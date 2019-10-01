@@ -70,7 +70,8 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
 3. Python深度学习 Deep Learning with Python Python
 4. 深度卷积网络:原理与实践 Deep convolutional neural network principle and practice
 5. 动手学深度学习 by Aston Zhang and Mu Li
-6. 深度学习 by Ian，Goodfellow etc
+6. 深度学习 by Ian，Goodfellow etc (花书)
+7. 机器学习 by 周志华 (西瓜书)
 
 ## Reference
 
