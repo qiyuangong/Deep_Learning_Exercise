@@ -2,13 +2,23 @@
 
 Examples, Notebook and materials for Deep Learning Exercise and materials.
 
-## Basic Knowledge
+## Knowledge Required
+
+Basic knowledge and Applications:
 
 1. Python and Numpy
-2. Neural Network
-3. Deep Learning Frameworks (TensorFlow, PyTorch and BigDL and Zoo etc)
-4. Machine Learning (optional)
-5. Line algebra (optional)
+2. Basic Neural Network components (FC, Relu, SGD, CNN, RNN etc)
+3. Deep Learning Frameworks (Keras, TensorFlow, PyTorch and BigDL and Zoo etc)
+4. Examples in different areas
+
+Advanced knowledge (depends on which area you are focusing):
+
+1. Machine Learning
+2. Math (optional):
+    - Numerical Computation
+    - Line algebra
+    - Probability and Information Theory
+3. Classic deep learning papers
 
 ### Python & Numpy Exercise
 
