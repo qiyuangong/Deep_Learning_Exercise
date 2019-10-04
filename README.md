@@ -4,21 +4,39 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
 
 ## Knowledge Required
 
-Basic knowledge and Applications:
+### Basic knowledge and Applications
 
 1. Python and Numpy
-2. Basic Neural Network components (FC, Relu, SGD, CNN, RNN etc)
-3. Deep Learning Frameworks (Keras, TensorFlow, PyTorch and BigDL and Zoo etc)
+2. Basic Neural Network components:
+    - Loss functions
+    - Layers & operations (FC, Relu, CNN, RNN etc)
+    - Optimizations (SGD, adam)
+3. Deep Learning Frameworks
+    - Keras, TensorFlow, PyTorch
+    - BigDL and Analytics Zoo for big data
 4. Examples in different areas
+    - Computer Vision (CV)
+    - Natural Language Processing (NLP)
+    - Reinforcement Learning (RL)
 
-Advanced knowledge (depends on which area you are focusing):
+PS: Choose a DL framework, and learn with examples. DIY like building with LeGo.
+
+### Advanced knowledge
 
 1. Machine Learning
-2. Math (optional):
+2. Math:
     - Numerical Computation
     - Line algebra
     - Probability and Information Theory
-3. Classic deep learning papers
+3. Detailed deep learning knowledge in different areas
+    - Computer Vision (CV)
+    - Natural Language Processing (NLP)
+    - Reinforcement Learning (RL)
+4. Algorithms in Deep Learning
+
+PS: This stage has much more to learn, and they are much harder than last stage. Pls focus on one of them, i.e., become expert in one area rather than know everything but not good at any of them.
+
+## Materials & Resources
 
 ### Python & Numpy Exercise
 
@@ -75,7 +93,7 @@ Advanced knowledge (depends on which area you are focusing):
     - [Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 14. [Google Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx)
 
-### 中文资料
+## 中文资料
 
 1. 百面机器学习 by 诸葛越 and 葫芦娃
 2. 统计学习方法 by 李航
