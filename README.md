@@ -19,7 +19,8 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
     - Natural Language Processing (NLP)
     - Reinforcement Learning (RL)
 
-PS: Choose a DL framework, and learn with examples. DIY like building with LeGo.
+Tips: Focus on applications and examples
+How to: Choose a DL framework, and learn with examples. DIY like building with LeGo.
 
 ### Advanced knowledge
 
@@ -34,7 +35,8 @@ PS: Choose a DL framework, and learn with examples. DIY like building with LeGo.
     - Reinforcement Learning (RL)
 4. Algorithms in Deep Learning
 
-PS: This stage has much more to learn, and they are much harder than last stage. Pls focus on one of them, i.e., become expert in one area rather than know everything but not good at any of them.
+Tips: Pls focus on one of them, i.e., become expert in one area rather than know everything but not good at any of them.
+How to: Choose a most interesting or relevant (with your work) area, and dig in.
 
 ## Materials & Resources
 
