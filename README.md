@@ -97,13 +97,20 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 
 ## 中文资料
 
+深度学习
+
 1. 百面机器学习 by 诸葛越 and 葫芦娃
 2. 统计学习方法 by 李航
 3. Python深度学习 Deep Learning with Python Python
 4. 深度卷积网络:原理与实践 Deep convolutional neural network principle and practice
 5. 动手学深度学习 by Aston Zhang and Mu Li
 6. 深度学习 by Ian，Goodfellow etc (花书)
-7. 机器学习 by 周志华 (西瓜书)
+
+机器学习
+
+1. 机器学习 by 周志华 (西瓜书)
+2. 机器学习实战 by Peter Harrington
+3. 数据挖掘 概念与技术 by Jiawei Han
 
 ## Reference
 
