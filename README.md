@@ -112,6 +112,11 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 2. 机器学习实战 by Peter Harrington
 3. 数据挖掘 概念与技术 by Jiawei Han
 
+数学
+
+1. 线性代数及其应用 by Lay D.C
+2. 程序员的数学1-3
+
 ## Reference
 
 1. [Analytics-Zoo](https://github.com/intel-analytics/analytics-zoo)
