@@ -128,6 +128,12 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 1. 线性代数及其应用 by Lay D.C
 2. 程序员的数学1-3
 
+中文文档
+
+1. [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
+2. [TensorFlow中文官网](https://tensorflow.google.cn/)
+3. [TensorFlow中文社区](http://www.tensorfly.cn/)
+
 ## Reference
 
 1. [Analytics-Zoo](https://github.com/intel-analytics/analytics-zoo)
@@ -139,3 +145,4 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 7. [Apache Spark](https://spark.apache.org/)
 8. [deeplearning.ai](https://www.deeplearning.ai/)
 9. [Keras](https://keras.io/)
+10. [PyTorch](https://pytorch.org/)
