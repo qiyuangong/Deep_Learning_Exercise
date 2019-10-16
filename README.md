@@ -74,6 +74,9 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 
 ### PyTorch Examples
 
+1. [DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+2. [PyTorch Tutorials](https://github.com/pytorch/tutorials/tree/master/beginner_source)
+
 ## Courses & Books
 
 ### Books
