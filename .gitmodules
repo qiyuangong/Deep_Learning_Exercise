@@ -7,3 +7,6 @@
 [submodule "jupyter_notebook/numpy_exercises/numpy_exercises"]
 	path = jupyter_notebook/numpy_exercises/numpy_exercises
 	url = https://github.com/Kyubyong/numpy_exercises.git
+[submodule "python/pytorch/tutorials"]
+	path = python/pytorch/tutorials
+	url = https://github.com/pytorch/tutorials.git
