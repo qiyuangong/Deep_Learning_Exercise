@@ -42,8 +42,9 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 
 ### Python & Numpy Exercise
 
-1. [numpy 100 exercises](https://github.com/rougier/numpy-100)
-2. [numpy exercises](https://github.com/Kyubyong/numpy_exercises)
+1. [CS231n Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+2. [numpy 100 exercises](https://github.com/rougier/numpy-100)
+3. [numpy exercises](https://github.com/Kyubyong/numpy_exercises)
 
 ## Deep Learning Exercise & Examples
 
