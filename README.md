@@ -87,6 +87,7 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 3. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen.
 4. [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/) by We McKinney
 5. [Linear Algebra and Learning from Data](https://math.mit.edu/~gs/learningfromdata/) by Gilbert Strang
+6. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by RichardS Sutton
 
 ### Courses
 
@@ -97,7 +98,7 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
     - [Improving deep neural networks: hyperparameter tuning, regularization and optimization (Course 2 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
     - [Structuring Machine Learning Projects (Course 3 of the Deep Learning Specialization)](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
     - [Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
-4. [Stanford CS231n: Convolutional Neural Networks for Visual Recognition, Spring 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+4. [Stanford CS231n: Convolutional Neural Networks for Visual Recognition, Spring 2017](http://cs231n.stanford.edu/syllabus.html), [Youtube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 5. [Stanford CS230: Deep Learning | Autumn 2018](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 6. [Stanford CS229: Machine Learning](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLEBC422EC5973B4D8)
 7. [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
@@ -120,6 +121,7 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 4. 深度卷积网络:原理与实践 Deep convolutional neural network principle and practice
 5. 动手学深度学习 by Aston Zhang and Mu Li
 6. 深度学习 by Ian，Goodfellow etc (花书)
+7. 强化学习 by RichardS Sutton
 
 机器学习
 
