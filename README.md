@@ -82,7 +82,7 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 
 ### Books
 
-1. [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks), [Notebook](https://github.com/qiyuangong/Deep_Learning_Exercise/tree/master/jupyter_notebook/tensorflow/deep-learning-with-python-notebooks)
+1. [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks) by François Chollet, [Notebook](https://github.com/qiyuangong/Deep_Learning_Exercise/tree/master/jupyter_notebook/tensorflow/deep-learning-with-python-notebooks)
 2. [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
 3. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen.
 4. [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/) by We McKinney
@@ -115,13 +115,13 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 
 深度学习
 
-1. 百面机器学习 by 诸葛越 and 葫芦娃
+1. Python深度学习 Deep Learning with Python by François Chollet
 2. 统计学习方法 by 李航
-3. Python深度学习 Deep Learning with Python Python
-4. 深度卷积网络:原理与实践 Deep convolutional neural network principle and practice
-5. 动手学深度学习 by Aston Zhang and Mu Li
-6. 深度学习 by Ian，Goodfellow etc (花书)
-7. 强化学习 by RichardS Sutton
+3. 深度学习 by Ian，Goodfellow etc (花书)
+4. 动手学深度学习 by Aston Zhang and Mu Li
+5. 强化学习 by RichardS Sutton
+6. 百面机器学习 by 诸葛越 and 葫芦娃
+7. 深度卷积网络:原理与实践 Deep convolutional neural network principle and practice
 
 机器学习
 
