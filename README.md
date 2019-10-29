@@ -18,6 +18,9 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
     - Computer Vision (CV)
     - Natural Language Processing (NLP)
     - Reinforcement Learning (RL)
+5. Serving Trained models (Into production)
+    - TensorFlow & PyTorch Serving
+    - KubeFlow
 
 Tips: Focus on applications and examples
 How to: Choose a DL framework, and learn with examples. DIY like building with LeGo.
@@ -34,6 +37,9 @@ How to: Choose a DL framework, and learn with examples. DIY like building with L
     - Natural Language Processing (NLP)
     - Reinforcement Learning (RL)
 4. Algorithms in Deep Learning
+5. Efficient methods & hardware for Deep Learning
+    - Methods for training & inference
+    - Hardwares for training & inference
 
 Tips: Pls focus on one of them, i.e., become expert in one area rather than know everything but not good at any of them.
 How to: Choose a most interesting or relevant (with your work) area, and dig in.
