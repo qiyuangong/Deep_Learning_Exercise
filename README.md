@@ -21,6 +21,7 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
 5. Serving Trained models (Into production)
     - TensorFlow & PyTorch Serving
     - KubeFlow
+    - Analytics-Zoo Cluster Serving
 
 Tips: Focus on applications and examples
 How to: Choose a DL framework, and learn with examples. DIY like building with LeGo.
@@ -94,6 +95,7 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 4. [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/) by We McKinney
 5. [Linear Algebra and Learning from Data](https://math.mit.edu/~gs/learningfromdata/) by Gilbert Strang
 6. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by RichardS Sutton
+7. [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 ### Courses
 
