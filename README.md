@@ -24,7 +24,7 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
     - Analytics-Zoo Cluster Serving
 
 Tips: Focus on applications and examples
-How to: Choose a DL framework, and learn with examples. DIY like building with LeGo.
+How to: Choose a DL framework, and learn with examples. DIY like building with LeGo. At this stage, [Kaggle](https://www.kaggle.com/) and [Google colab](https://colab.research.google.com/) will be your best playground.
 
 ### Advanced knowledge
 
@@ -43,7 +43,7 @@ How to: Choose a DL framework, and learn with examples. DIY like building with L
     - Hardwares for training & inference
 
 Tips: Pls focus on one of them, i.e., become expert in one area rather than know everything but not good at any of them.
-How to: Choose a most interesting or relevant (with your work) area, and dig in.
+How to: Choose a most interesting or relevant (with your work) area, and dig in. Then, keep tracking this area and become an expert.
 
 ## Materials & Resources
 
@@ -160,3 +160,5 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 8. [deeplearning.ai](https://www.deeplearning.ai/)
 9. [Keras](https://keras.io/)
 10. [PyTorch](https://pytorch.org/)
+11. [Kaggle](https://www.kaggle.com/)
+12. [Google Colab](https://colab.research.google.com/)
