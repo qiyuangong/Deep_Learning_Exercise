@@ -49,7 +49,7 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 
 ### Python & Numpy Exercise
 
-1. [CS231n Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+1. `*` [CS231n Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 2. [numpy 100 exercises](https://github.com/rougier/numpy-100)
 3. [numpy exercises](https://github.com/Kyubyong/numpy_exercises)
 
@@ -87,10 +87,12 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 
 ## Courses & Books
 
+`*` means recommended.
+
 ### Books
 
-1. [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks) by François Chollet, [Notebook](https://github.com/qiyuangong/Deep_Learning_Exercise/tree/master/jupyter_notebook/tensorflow/deep-learning-with-python-notebooks)
-2. [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
+1. `*` [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks) by François Chollet, [Notebook](https://github.com/qiyuangong/Deep_Learning_Exercise/tree/master/jupyter_notebook/tensorflow/deep-learning-with-python-notebooks)
+2. `*` [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
 3. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen.
 4. [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/) by We McKinney
 5. [Linear Algebra and Learning from Data](https://math.mit.edu/~gs/learningfromdata/) by Gilbert Strang
@@ -106,7 +108,7 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
     - [Improving deep neural networks: hyperparameter tuning, regularization and optimization (Course 2 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
     - [Structuring Machine Learning Projects (Course 3 of the Deep Learning Specialization)](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
     - [Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
-4. [Stanford CS231n: Convolutional Neural Networks for Visual Recognition, Spring 2017](http://cs231n.stanford.edu/syllabus.html), [Youtube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) [Summary](https://github.com/mbadry1/CS231n-2017-Summary)
+4. `*` [Stanford CS231n: Convolutional Neural Networks for Visual Recognition, Spring 2017](http://cs231n.stanford.edu/syllabus.html), [Youtube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) [Summary](https://github.com/mbadry1/CS231n-2017-Summary)
 5. [Stanford CS230: Deep Learning | Autumn 2018](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 6. [Stanford CS229: Machine Learning](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLEBC422EC5973B4D8)
 7. [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
@@ -164,3 +166,4 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 10. [PyTorch](https://pytorch.org/)
 11. [Kaggle](https://www.kaggle.com/)
 12. [Google Colab](https://colab.research.google.com/)
+13. [BigDL](https://github.com/intel-analytics/BigDL)
