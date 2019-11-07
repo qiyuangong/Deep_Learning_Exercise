@@ -18,10 +18,11 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
     - Computer Vision (CV)
     - Natural Language Processing (NLP)
     - Reinforcement Learning (RL)
+    - Generative Adversarial Networks (GAN)
 5. Serving Trained models (Into production)
     - TensorFlow & PyTorch Serving
     - KubeFlow
-    - Analytics-Zoo Cluster Serving
+    - Analytics-Zoo Web & Cluster Serving
 
 Tips: Focus on applications and examples
 How to: Choose a DL framework, and learn with examples. DIY like building with LeGo. At this stage, [Kaggle](https://www.kaggle.com/) and [Google colab](https://colab.research.google.com/) will be your best playground.
@@ -138,7 +139,7 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 机器学习
 
 1. 机器学习 by 周志华 (西瓜书)
-2. 机器学习实战 by Peter Harrington
+2. `*` 机器学习实战 by Peter Harrington
 3. 数据挖掘 概念与技术 by Jiawei Han
 
 数学
