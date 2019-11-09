@@ -76,6 +76,8 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 
 ### OpenVINO Examples
 
+[OpenVINO optimizes and loads TensorFlow pre-trained models](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_TensorFlow.html):
+
 1. [OpenVINO load TensorFlow resnet_v1_50](https://github.com/qiyuangong/Deep_Learning_Exercise/blob/master/document/OpenVINO%20Resnet_v1_50.md)
 2. [OpenVINO load TensorFlow inception_v3](https://github.com/qiyuangong/Deep_Learning_Exercise/blob/master/document/OpenVINO%20Inception_v3.md)
 3. [OpenVINO load TensorFlow vgg_19](https://github.com/qiyuangong/Deep_Learning_Exercise/blob/master/document/OpenVINO%20VGG_19.md)
