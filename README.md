@@ -170,3 +170,7 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 11. [Kaggle](https://www.kaggle.com/)
 12. [Google Colab](https://colab.research.google.com/)
 13. [BigDL](https://github.com/intel-analytics/BigDL)
+
+## Other resources
+
+1. [Machine_Learning_Study_Path中文](https://github.com/linxid/Machine_Learning_Study_Path)
