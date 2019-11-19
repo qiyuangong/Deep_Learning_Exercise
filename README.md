@@ -128,6 +128,8 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 
 `*`表示推荐
 
+### 书籍
+
 深度学习
 
 1. `*` Python深度学习 Deep Learning with Python by François Chollet
@@ -149,7 +151,11 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 1. 线性代数及其应用 by Lay D.C
 2. 程序员的数学1-3
 
-中文文档
+### 课程
+
+1. [李宏毅ML课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html) [B站视频](https://www.bilibili.com/video/av46561029/)
+
+### 中文文档
 
 1. [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
 2. [TensorFlow中文官网](https://tensorflow.google.cn/)
