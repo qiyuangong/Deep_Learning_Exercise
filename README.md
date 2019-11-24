@@ -2,6 +2,8 @@
 
 Examples, Notebook and materials for Deep Learning Exercise and materials.
 
+[中文版](README_CH.md)
+
 ## Knowledge Required
 
 ### Basic knowledge and Applications
@@ -106,14 +108,14 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 
 ### Courses
 
-1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow), [Code](https://github.com/qiyuangong/Deep_Learning_Exercise/tree/master/python/tensorflow/introduction-tensorflow) and [Notebook](https://github.com/qiyuangong/Deep_Learning_Exercise/tree/master/jupyter_notebook/tensorflow/introduction-tensorflow)
-2. [Google Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx)
-3. [deeplearning.ai](https://www.deeplearning.ai/)
+1. `*` [Stanford CS231n: Convolutional Neural Networks for Visual Recognition, Spring 2017](http://cs231n.stanford.edu/syllabus.html), [Youtube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) [Summary](https://github.com/mbadry1/CS231n-2017-Summary)
+2. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow), [Code](https://github.com/qiyuangong/Deep_Learning_Exercise/tree/master/python/tensorflow/introduction-tensorflow) and [Notebook](https://github.com/qiyuangong/Deep_Learning_Exercise/tree/master/jupyter_notebook/tensorflow/introduction-tensorflow)
+3. [Google Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx)
+4. [deeplearning.ai](https://www.deeplearning.ai/)
     - [Neural Networks and Deep Learning (Course 1 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
     - [Improving deep neural networks: hyperparameter tuning, regularization and optimization (Course 2 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
     - [Structuring Machine Learning Projects (Course 3 of the Deep Learning Specialization)](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
     - [Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
-4. `*` [Stanford CS231n: Convolutional Neural Networks for Visual Recognition, Spring 2017](http://cs231n.stanford.edu/syllabus.html), [Youtube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) [Summary](https://github.com/mbadry1/CS231n-2017-Summary)
 5. [Stanford CS230: Deep Learning | Autumn 2018](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 6. [Stanford CS229: Machine Learning](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLEBC422EC5973B4D8)
 7. [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
@@ -125,43 +127,6 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 9. [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 10. [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 11. [Stanford CS234: Reinforcement Learning | Winter 2019](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-
-## 中文资料
-
-`*`表示推荐
-
-### 书籍
-
-深度学习
-
-1. `*` Python深度学习 Deep Learning with Python by François Chollet
-2. 统计学习方法 by 李航
-3. `*` 深度学习 by Ian，Goodfellow etc (花书，翻译不算优秀)
-4. 动手学深度学习 by Aston Zhang and Mu Li
-5. `*`强化学习 by RichardS Sutton
-6. 百面机器学习 by 诸葛越 and 葫芦娃
-7. 深度卷积网络:原理与实践 Deep convolutional neural network principle and practice
-
-机器学习
-
-1. 机器学习 by 周志华 (西瓜书)
-2. `*` 机器学习实战 by Peter Harrington
-3. 数据挖掘 概念与技术 by Jiawei Han
-
-数学
-
-1. 线性代数及其应用 by Lay D.C
-2. 程序员的数学1-3
-
-### 课程
-
-1. [李宏毅ML课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html) [B站视频](https://www.bilibili.com/video/av46561029/)
-
-### 中文文档
-
-1. [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
-2. [TensorFlow中文官网](https://tensorflow.google.cn/)
-3. [TensorFlow中文社区](http://www.tensorfly.cn/)
 
 ## Reference
 
