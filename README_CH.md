@@ -2,7 +2,7 @@
 
 [英文版](README.md)
 
-自学深度学习所需的知识和资料（课程、书籍和论文）。
+自学深度学习所需的知识和资料（课程、书籍和论文）。与英文版相比，给出的link都是国内的link，和中文资料（如没有中文资料，则有英文资料的link）。
 
 ## 知识储备
 
@@ -12,8 +12,9 @@
 
 `*` 表示推荐.
 
-1. `*` [斯坦福CS231n: 卷积和视觉, 2017, 李飞飞, 英文版](http://cs231n.stanford.edu/syllabus.html), [Youtube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) [课程笔记](https://github.com/mbadry1/CS231n-2017-Summary)
-2. [李宏毅ML课程, 中文](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html) [B站视频](https://www.bilibili.com/video/av46561029/)
+1. `*` [斯坦福CS231n: 卷积和视觉, 2017, 李飞飞, 英文版](http://cs231n.stanford.edu/syllabus.html), [B站](https://www.bilibili.com/video/av58778425?from=search&seid=16447017126874781751), [课程笔记](https://github.com/mbadry1/CS231n-2017-Summary)
+2. `*` [斯坦福CS224n: 深度学习自然语言处理, 2019, Christopher Manning, 英文版](http://web.stanford.edu/class/cs224n/index.html), [B站](https://www.bilibili.com/video/av41393758?from=search&seid=14792978053812629226), [课程笔记1](https://github.com/DukeEnglish/cs224n_learning_note), [课程笔记2](https://github.com/zhanlaoban/CS224N-Stanford-Winter-2019)
+3. [李宏毅ML课程, 中文](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html) [B站视频](https://www.bilibili.com/video/av46561029/)
 
 ## 书籍推荐
 
