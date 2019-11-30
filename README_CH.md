@@ -1,12 +1,36 @@
 # 深度学习练习（自学）
 
-[英文版](README.md)
+[English](README.md)
 
 自学深度学习所需的知识和资料（课程、书籍和论文）。与英文版相比，给出的link都是国内的link，和中文资料（如没有中文资料，则有英文资料的link）。
 
 ## 知识储备
 
-### 入门阶段
+### 基础知识和应用
+
+1. Python和Numpy
+2. 基本的神经网络组建
+    - 损失函数
+    - 层和操作 (FC, Relu, CNN, RNN etc)
+    - 优化器 (SGD, adam)
+3. 深度学习框架
+    - 常用: PyTorch, Keras, TensorFlow
+    - 大数据: BigDL和Analytics Zoo
+4. 不同领域的案例
+    - 视觉 (CV)
+    - 自然语言处理 (NLP)
+    - 强化学习 (RL)
+    - Generative Adversarial Networks (GAN)
+5. 部署训练好的模型 (部署和Serving)
+    - TensorFlow & PyTorch Serving
+    - KubeFlow
+    - Analytics-Zoo Web & Cluster Serving
+
+**在和几个学生和朋友聊过自学方式后。我深感有一个基本的大局观比学很多知识更重要。所以我强烈推荐先去学习李飞飞的CS231n。这门课程能让你对深度学习的各类问题和模型有一个基本的认识。**
+
+Tips: Focus on applications and examples
+How to: Choose a DL framework, and learn with examples. DIY like building with LeGo. At this stage, [Kaggle](https://www.kaggle.com/) and [Google colab](https://colab.research.google.com/) will be your best playground.
+
 
 ## 课程推荐
 

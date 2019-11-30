@@ -14,7 +14,7 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
     - Layers & operations (FC, Relu, CNN, RNN etc)
     - Optimizations (SGD, adam)
 3. Deep Learning Frameworks
-    - Keras, TensorFlow, PyTorch
+    - PyTorch, Keras, TensorFlow
     - BigDL and Analytics Zoo for big data
 4. Examples in different areas
     - Computer Vision (CV)
