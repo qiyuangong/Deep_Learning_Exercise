@@ -28,9 +28,8 @@
 
 **在和几个学生和朋友聊过自学方式后。我深感有一个基本的大局观比学很多知识更重要。所以我强烈推荐先去学习李飞飞的CS231n。这门课程能让你对深度学习的各类问题和模型有一个基本的认识。**
 
-Tips: Focus on applications and examples
-How to: Choose a DL framework, and learn with examples. DIY like building with LeGo. At this stage, [Kaggle](https://www.kaggle.com/) and [Google colab](https://colab.research.google.com/) will be your best playground.
-
+Tips: 关注应用和案例（用典型案例划分问题）
+How to: 选一个深度学习框架(推荐PyTorch和TensorFlow), 然后像搭乐高一样构建你的模型和应用。
 
 ## 课程推荐
 
