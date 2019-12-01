@@ -21,7 +21,8 @@
     - 自然语言处理 (NLP)
     - 强化学习 (RL)
     - Generative Adversarial Networks (GAN)
-5. 部署训练好的模型 (部署和Serving)
+5. 迁移学习和微调
+6. 部署训练好的模型 (部署和Serving)
     - TensorFlow & PyTorch Serving
     - KubeFlow
     - Analytics-Zoo Web & Cluster Serving
@@ -30,6 +31,28 @@
 
 Tips: 关注应用和案例（用典型案例划分问题）
 How to: 选一个深度学习框架(推荐PyTorch和TensorFlow), 然后像搭乐高一样构建你的模型和应用。
+
+### 进阶
+
+首先需要确定是否需要进阶，因为对大部分人而已，并不需要了解太多知识。
+
+1. 机器学习
+2. 数学:
+    - Numerical Computation
+    - Line algebra
+    - Probability and Information Theory
+3. 不同深度学习领域的进阶知识
+    - Computer Vision (CV)
+    - Natural Language Processing (NLP)
+    - Reinforcement Learning (RL)
+4. 深度学习中的算法
+5. Efficient methods & hardware for Deep Learning
+    - Methods for training & inference
+    - Hardwares for training & inference
+
+Tips: Pls focus on one of them, i.e., become expert in one area rather than know everything but not good at any of them.
+How to: Choose a most interesting or relevant (with your work) area, and dig in. Then, keep tracking this area and become an expert.
+
 
 ## 课程推荐
 

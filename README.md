@@ -21,7 +21,8 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
     - Natural Language Processing (NLP)
     - Reinforcement Learning (RL)
     - Generative Adversarial Networks (GAN)
-5. Serving Trained models (Into production)
+5. Transfer Learning & Fine-tune
+6. Serving Trained models (Into production)
     - TensorFlow & PyTorch Serving
     - KubeFlow
     - Analytics-Zoo Web & Cluster Serving
