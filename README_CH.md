@@ -22,6 +22,8 @@
     - 强化学习 (RL)
     - Generative Adversarial Networks (GAN)
 5. 迁移学习和微调
+    - 视觉 (CV)
+    - 自然语言处理 (NLP)
 6. 部署训练好的模型 (部署和Serving)
     - TensorFlow & PyTorch Serving
     - KubeFlow

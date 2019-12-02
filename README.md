@@ -22,6 +22,8 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
     - Reinforcement Learning (RL)
     - Generative Adversarial Networks (GAN)
 5. Transfer Learning & Fine-tune
+    - Computer Vision (CV)
+    - Natural Language Processing (NLP)
 6. Serving Trained models (Into production)
     - TensorFlow & PyTorch Serving
     - KubeFlow
