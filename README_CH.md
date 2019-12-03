@@ -52,9 +52,8 @@ How to: 选一个深度学习框架(推荐PyTorch和TensorFlow), 然后像搭乐
     - Methods for training & inference
     - Hardwares for training & inference
 
-Tips: Pls focus on one of them, i.e., become expert in one area rather than know everything but not good at any of them.
-How to: Choose a most interesting or relevant (with your work) area, and dig in. Then, keep tracking this area and become an expert.
-
+Tips: 只专注于一个领域，而不是多个
+How to: 选一个感兴趣的或者和工作相关的领域，持续关注这个领域最新的发展
 
 ## 课程推荐
 
