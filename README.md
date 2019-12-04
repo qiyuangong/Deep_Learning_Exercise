@@ -47,6 +47,7 @@ How to: Choose a DL framework, and learn with examples. DIY like building with L
     - Reinforcement Learning (RL)
 4. Algorithms in Deep Learning
 5. Efficient methods & hardware for Deep Learning
+    - Distall, low-precision, compression & quantization etc
     - Methods for training & inference
     - Hardwares for training & inference
 

@@ -48,9 +48,10 @@ How to: 选一个深度学习框架(推荐PyTorch和TensorFlow), 然后像搭乐
     - Natural Language Processing (NLP)
     - Reinforcement Learning (RL)
 4. 深度学习中的算法
-5. Efficient methods & hardware for Deep Learning
-    - Methods for training & inference
-    - Hardwares for training & inference
+5. 高效的深度学习方法和硬件
+    - 蒸馏、低精度、量化和压缩等
+    - 高效的训练和推理方法
+    - 硬件
 
 Tips: 只专注于一个领域，而不是多个
 How to: 选一个感兴趣的或者和工作相关的领域，持续关注这个领域最新的发展
