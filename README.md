@@ -152,3 +152,4 @@ How to: Choose a most interesting or relevant (with your work) area, and dig in.
 
 1. [Machine_Learning_Study_Path中文](https://github.com/linxid/Machine_Learning_Study_Path)
 2. [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design)
+3. [Microsoft AI education materials for Chinese students, teachers and IT professionals](https://github.com/microsoft/ai-edu)

@@ -93,3 +93,4 @@ How to: 选一个感兴趣的或者和工作相关的领域，持续关注这个
 1. [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
 2. [TensorFlow中文官网](https://tensorflow.google.cn/)
 3. [TensorFlow中文社区](http://www.tensorfly.cn/)
+4. [微软人工智能教育与学习共建社区](https://github.com/microsoft/ai-edu)
