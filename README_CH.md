@@ -67,7 +67,7 @@ How to: 选一个感兴趣的或者和工作相关的领域，持续关注这个
 
 ## 书籍推荐
 
-深度学习
+### 深度学习
 
 1. `*` Python深度学习 Deep Learning with Python by François Chollet
 2. 统计学习方法 by 李航
@@ -77,16 +77,17 @@ How to: 选一个感兴趣的或者和工作相关的领域，持续关注这个
 6. 百面机器学习 by 诸葛越 and 葫芦娃
 7. 深度卷积网络:原理与实践 Deep convolutional neural network principle and practice
 
-机器学习
+### 机器学习
 
 1. 机器学习 by 周志华 (西瓜书)
 2. `*` 机器学习实战 by Peter Harrington
 3. 数据挖掘 概念与技术 by Jiawei Han
 
-数学
+### 数学
 
 1. 线性代数及其应用 by Lay D.C
 2. 程序员的数学1-3
+3. 什么是数学
 
 ## 中文文档
 
