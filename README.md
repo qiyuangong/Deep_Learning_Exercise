@@ -31,7 +31,8 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
 
 **After talking with serveral people, who are learning deep learning by themselves. I found that in this stage, learning too much without a correct direction is very inefficient. To avoid going into wrong directions, I highly recommend them to go over Standford CS231n by Feifei Li. This course will give you an overview & basic knowledge of deep learning, and let you know the mapping between problem & solutions.**
 
-Tips: Focus on applications and examples
+Tips: Focus on applications and examples. Search with Google, and try several solutions if possible.
+
 How to: Choose a DL framework, and learn with examples. DIY like building with LeGo. At this stage, [Kaggle](https://www.kaggle.com/) and [Google colab](https://colab.research.google.com/) will be your best playground.
 
 ### Advanced knowledge
@@ -51,7 +52,8 @@ How to: Choose a DL framework, and learn with examples. DIY like building with L
     - Methods for training & inference
     - Hardwares for training & inference
 
-Tips: Pls focus on one of them, i.e., become expert in one area rather than know everything but not good at any of them.
+Tips: Pls focus on one of them, i.e., become expert in one area (or a few area) rather than know everything but not good at any of them. Pay more attention on Deep Learning papers rather than blogs.
+
 How to: Choose a most interesting or relevant (with your work) area, and dig in. Then, keep tracking this area and become an expert.
 
 ## Materials & Resources
