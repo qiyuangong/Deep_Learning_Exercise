@@ -98,6 +98,12 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
 1. [DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 2. [PyTorch Tutorials](https://github.com/pytorch/tutorials/tree/master/beginner_source)
 
+## Blog or Channels
+
+1. Subscribe on [deeplearning.ai](https://www.deeplearning.ai/), it will send blog and recommended paper throught email.
+2. Subscribe deep learning related topics on [Medium][https://medium.com/].
+3. [Colah](https://colah.github.io/)
+
 ## Courses & Books
 
 `*` means recommended.

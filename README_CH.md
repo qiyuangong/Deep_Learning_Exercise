@@ -65,6 +65,13 @@
 3. [李宏毅ML课程, 中文](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html) [B站视频](https://www.bilibili.com/video/av46561029/)
 4. [斯坦福CS234: 强化学习 2019](http://web.stanford.edu/class/cs234/index.html), [B站](https://www.bilibili.com/video/av47812079?from=search&seid=4379173489386079369)
 
+## 博客推荐
+
+1. 可以订阅[deeplearning.ai](https://www.deeplearning.ai/)的邮件，定期会推送博客和推荐的论文
+2. [机器之心](https://www.jiqizhixin.com/)
+3. [AutoVision by 仙道菜](https://blog.csdn.net/cyh_24)
+4. [Colah](https://colah.github.io/)
+
 ## 书籍推荐
 
 ### 深度学习
