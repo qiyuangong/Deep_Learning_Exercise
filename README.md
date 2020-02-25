@@ -155,6 +155,7 @@ Examples, Notebook and materials for Deep Learning Exercise and materials.
 11. [Kaggle](https://www.kaggle.com/)
 12. [Google Colab](https://colab.research.google.com/)
 13. [BigDL](https://github.com/intel-analytics/BigDL)
+14. [OpenVINO Open Model Zoo](https://github.com/opencv/open_model_zoo)
 
 ## Other resources
 
