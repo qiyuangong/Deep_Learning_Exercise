@@ -1,6 +1,14 @@
 # Deep Learning Exercise
 
-Examples, Notebook and materials for Deep Learning Exercise and materials.
+Examples, Notebook, materials and suggestions for Deep Learning Exercise and materials.
+
+## Roles and tasks
+
+Before your started. Pls read [AI Career Pathways: Put Yourself on the Right Track](https://workera.ai/candidates/report/), recommended by Andrew NG and YC etc. It will let you know:
+
+1. Roles and tasks in AI ecosystem
+2. Your current role
+3. Target role (Skill set and tasks)
 
 [中文版](README_CH.md)
 
