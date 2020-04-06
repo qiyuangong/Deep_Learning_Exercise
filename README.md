@@ -2,7 +2,7 @@
 
 Examples, Notebook, materials and suggestions for Deep Learning Exercise and materials.
 
-## Roles and tasks
+## Roles and tasks (First of all)
 
 Before your started. Pls read [AI Career Pathways: Put Yourself on the Right Track](https://workera.ai/candidates/report/), recommended by Andrew NG and YC etc. It will let you know:
 
@@ -164,6 +164,7 @@ Before your started. Pls read [AI Career Pathways: Put Yourself on the Right Tra
 12. [Google Colab](https://colab.research.google.com/)
 13. [BigDL](https://github.com/intel-analytics/BigDL)
 14. [OpenVINO Open Model Zoo](https://github.com/opencv/open_model_zoo)
+15. [AI Career Pathways: Put Yourself on the Right Track](https://workera.ai/candidates/report/)
 
 ## Other resources
 

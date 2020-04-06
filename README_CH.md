@@ -4,7 +4,7 @@
 
 自学深度学习所需的知识和资料（课程、书籍和论文）。与英文版相比，给出的link都是国内的link，和中文资料（如没有中文资料，则有英文资料的link）。
 
-## 技能和职位
+## 技能和职位 (了解自己和目标)
 
 推荐先阅读[AI Career Pathways: Put Yourself on the Right Track](https://workera.ai/candidates/report/), 吴恩达和YC推荐。通过这篇文章你可以获知：
 
