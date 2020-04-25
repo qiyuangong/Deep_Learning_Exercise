@@ -74,6 +74,8 @@ Before your started. Pls read [AI Career Pathways: Put Yourself on the Right Tra
 
 ## Kaggle Notebook
 
+1. [Alien vs. Predator images](https://www.kaggle.com/pmigdal/alien-vs-predator-images) [Notebook](https://github.com/qiyuangong/Deep_Learning_Exercise/kaggle/alien-vs-predator/Transfer_learning_with_PyTorch.ipynb)
+
 ## Deep Learning Exercise & Examples
 
 ### Analytics-Zoo Examples
