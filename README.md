@@ -72,6 +72,8 @@ Before your started. Pls read [AI Career Pathways: Put Yourself on the Right Tra
 2. [numpy 100 exercises](https://github.com/rougier/numpy-100)
 3. [numpy exercises](https://github.com/Kyubyong/numpy_exercises)
 
+## Kaggle Notebook
+
 ## Deep Learning Exercise & Examples
 
 ### Analytics-Zoo Examples
