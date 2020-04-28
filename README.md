@@ -2,9 +2,11 @@
 
 Examples, Notebook, materials and suggestions for Deep Learning Exercise and materials.
 
+`*` means recommended.
+
 ## Roles and tasks (First of all)
 
-Before your started. Pls read [AI Career Pathways: Put Yourself on the Right Track](https://workera.ai/candidates/report/), recommended by Andrew NG and YC etc. It will let you know:
+`*` Before your started. Pls read [AI Career Pathways: Put Yourself on the Right Track](https://workera.ai/candidates/report/), recommended by Andrew NG and YC etc. It will let you know:
 
 1. Roles and tasks in AI ecosystem
 2. Your current role
@@ -107,7 +109,7 @@ Before your started. Pls read [AI Career Pathways: Put Yourself on the Right Tra
 
 ### PyTorch Examples
 
-1. [DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+1. `*` [DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 2. [PyTorch Tutorials](https://github.com/pytorch/tutorials/tree/master/beginner_source)
 
 ## Blog or Channels
@@ -117,8 +119,6 @@ Before your started. Pls read [AI Career Pathways: Put Yourself on the Right Tra
 3. [Colah](https://colah.github.io/)
 
 ## Courses & Books
-
-`*` means recommended.
 
 ### Books
 

@@ -4,9 +4,11 @@
 
 自学深度学习所需的知识和资料（课程、书籍和论文）。与英文版相比，给出的link都是国内的link，和中文资料（如没有中文资料，则有英文资料的link）。
 
+`*` 表示推荐.
+
 ## 技能和职位 (了解自己和目标)
 
-推荐先阅读[AI Career Pathways: Put Yourself on the Right Track](https://workera.ai/candidates/report/), 吴恩达和YC推荐。通过这篇文章你可以获知：
+`*` 推荐先阅读[AI Career Pathways: Put Yourself on the Right Track](https://workera.ai/candidates/report/), 吴恩达和YC推荐。通过这篇文章你可以获知：
 
 1. AI生态中的技能和职位/角色
 2. 你目前的职位/角色
@@ -65,8 +67,6 @@
 **How to:** 选一个或者少数几个感兴趣的或者和工作相关的领域，持续关注这个领域最新的发展。多关注论文和书籍，少关注博客。
 
 ## 课程推荐
-
-`*` 表示推荐.
 
 1. `*` [斯坦福CS231n: 卷积和视觉, 2017, 李飞飞, 英文版](http://cs231n.stanford.edu/syllabus.html), [B站](https://www.bilibili.com/video/av58778425?from=search&seid=16447017126874781751), [课程笔记](https://github.com/mbadry1/CS231n-2017-Summary)
 2. `*` [斯坦福CS224n: 深度学习自然语言处理, 2019, Christopher Manning, 英文版](http://web.stanford.edu/class/cs224n/index.html), [B站](https://www.bilibili.com/video/av41393758?from=search&seid=14792978053812629226), [课程笔记1](https://github.com/DukeEnglish/cs224n_learning_note), [课程笔记2](https://github.com/zhanlaoban/CS224N-Stanford-Winter-2019)
