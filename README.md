@@ -77,6 +77,7 @@ Examples, Notebook, materials and suggestions for Deep Learning Exercise and mat
 ## Kaggle Notebook
 
 1. [Alien vs. Predator images](https://www.kaggle.com/pmigdal/alien-vs-predator-images) [Notebook](https://github.com/qiyuangong/Deep_Learning_Exercise/blob/master/kaggle/alien-vs-predator/Transfer_learning_with_PyTorch.ipynb)
+2. [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) [Notebook](https://github.com/qiyuangong/Deep_Learning_Exercise/blob/master/kaggle/chest-xray-pneumonia/Resnet_Transfer_Learning_Using_PyTorch.ipynb)
 
 ## Deep Learning Exercise & Examples
 
