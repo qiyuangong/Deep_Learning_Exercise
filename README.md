@@ -152,6 +152,7 @@ Examples, Notebook, materials and suggestions for Deep Learning Exercise and mat
 9. [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 10. [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2019](http://web.stanford.edu/class/cs224n/index.html), [Youtube](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 11. [Stanford CS234: Reinforcement Learning | Winter 2019](http://web.stanford.edu/class/cs234/index.html), [Youtube](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+12. [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## Reference
 
