@@ -83,13 +83,13 @@ Examples, Notebook, materials and suggestions for Deep Learning Exercise and mat
 
 ### Analytics-Zoo Examples
 
+Please refer to [OpenVINO™ Toolkit - Open Model Zoo repository](https://github.com/opencv/open_model_zoo) for more details.
+
 1. [Analytics-Zoo Streaming Object Detection & Text Classifcation Scala Example](https://github.com/intel-analytics/analytics-zoo/tree/master/zoo/src/main/scala/com/intel/analytics/zoo/examples/streaming)
 2. [Analytics-Zoo Streaming Object Detection & Text Classifcation Python Example](https://github.com/intel-analytics/analytics-zoo/tree/master/pyzoo/zoo/examples/streaming)
 3. [Analytics-Zoo Image Classification with Redis & Redis Streams](https://github.com/qiyuangong/image_classification_redis)
 4. [Analytics-Zoo OpenVINO ResNet_v1_50 Image Classifcation Scala Example](https://github.com/intel-analytics/analytics-zoo/tree/master/zoo/src/main/scala/com/intel/analytics/zoo/examples/vnni/openvino)
 5. [Analytics-Zoo OpenVINO ResNet_v1_50 Image Classifcation Python Example](https://github.com/intel-analytics/analytics-zoo/tree/master/pyzoo/zoo/examples/vnni/openvino)
-6. Analytics-Zoo OpenVINO mobilenet_v1 Object detection Python Example (WIP)
-7. Analytics-Zoo OpenVINO Inception_v3 Image Classifcation Python Example (WIP)
 
 ### TensorFlow & Keras Examples
 
