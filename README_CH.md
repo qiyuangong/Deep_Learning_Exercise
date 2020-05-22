@@ -88,7 +88,7 @@
 1. `*` Python深度学习 Deep Learning with Python by François Chollet
 2. `*` 统计学习方法 by 李航
 3. `*` 深度学习 by Ian，Goodfellow etc (花书，翻译不算优秀)
-4. 动手学深度学习 by Aston Zhang and Mu Li
+4. [动手学深度学习]((https://zh.d2l.ai/)) by Aston Zhang and Mu Li
 5. `*`强化学习 by RichardS Sutton
 6. 百面机器学习 by 诸葛越 and 葫芦娃
 7. 深度卷积网络:原理与实践 Deep convolutional neural network principle and practice

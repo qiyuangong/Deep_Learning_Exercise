@@ -130,6 +130,7 @@ Please refer to [OpenVINO™ Toolkit - Open Model Zoo repository](https://github
 5. [Linear Algebra and Learning from Data](https://math.mit.edu/~gs/learningfromdata/) by Gilbert Strang
 6. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by RichardS Sutton
 7. [Mathematics for Machine Learning](https://mml-book.github.io/)
+8. [Dive into Deep Learning](https://d2l.ai/)
 
 ### Courses
 
