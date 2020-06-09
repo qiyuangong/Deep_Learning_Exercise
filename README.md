@@ -155,6 +155,10 @@ Please refer to [OpenVINO™ Toolkit - Open Model Zoo repository](https://github
 11. [Stanford CS234: Reinforcement Learning | Winter 2019](http://web.stanford.edu/class/cs234/index.html), [Youtube](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 12. [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
+### Papers
+
+[Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+
 ## Reference
 
 1. [Analytics-Zoo](https://github.com/intel-analytics/analytics-zoo)
