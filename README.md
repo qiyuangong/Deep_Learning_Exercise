@@ -1,6 +1,6 @@
 # Deep Learning Exercise
 
-Examples, Notebook, materials and suggestions for Deep Learning Exercise and materials.
+This repo is a collection of self-learning materials for Deep Learning. It includes examples, Notebook, books, lectures and suggestions for learning Deep Learning.
 
 `*` means recommended.
 
