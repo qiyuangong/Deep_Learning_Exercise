@@ -83,7 +83,7 @@ This repo is a collection of self-learning materials for Deep Learning. It inclu
 
 ### Analytics-Zoo Examples
 
-Please refer to [OpenVINO™ Toolkit - Open Model Zoo repository](https://github.com/opencv/open_model_zoo) for more details.
+Please refer to [OpenVINO™ Toolkit - Open Model Zoo repository](https://github.com/openvinotoolkit/open_model_zoo) for more details.
 
 1. [Analytics-Zoo Streaming Object Detection & Text Classifcation Scala Example](https://github.com/intel-analytics/analytics-zoo/tree/master/zoo/src/main/scala/com/intel/analytics/zoo/examples/streaming)
 2. [Analytics-Zoo Streaming Object Detection & Text Classifcation Python Example](https://github.com/intel-analytics/analytics-zoo/tree/master/pyzoo/zoo/examples/streaming)
@@ -163,7 +163,7 @@ Please refer to [OpenVINO™ Toolkit - Open Model Zoo repository](https://github
 
 1. [Analytics-Zoo](https://github.com/intel-analytics/analytics-zoo)
 2. [TensorFlow](https://www.tensorflow.org/)
-3. [OpenVINO](https://software.intel.com/en-us/openvino-toolkit)
+3. [OpenVINO](https://github.com/openvinotoolkit/openvino)
 4. [Coursea](https://www.coursera.org)
 5. [Google Football](https://github.com/google-research/football)
 6. [Apache MXNet](https://mxnet.apache.org/)
@@ -174,7 +174,7 @@ Please refer to [OpenVINO™ Toolkit - Open Model Zoo repository](https://github
 11. [Kaggle](https://www.kaggle.com/)
 12. [Google Colab](https://colab.research.google.com/)
 13. [BigDL](https://github.com/intel-analytics/BigDL)
-14. [OpenVINO Open Model Zoo](https://github.com/opencv/open_model_zoo)
+14. [OpenVINO Open Model Zoo](https://github.com/openvinotoolkit/open_model_zoo)
 15. [AI Career Pathways: Put Yourself on the Right Track](https://workera.ai/candidates/report/)
 
 ## Other resources
